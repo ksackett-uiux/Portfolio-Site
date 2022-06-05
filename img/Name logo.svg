@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="3.76in" height=".59in" viewBox="0 0 270.68 42.57">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+        font-family: PlayfairDisplay-Regular, Playfair Display;
+        font-size: 38.88px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 33.2) scale(.98 1)"><tspan x="0" y="0">Kathryn Sac</tspan><tspan class="cls-4" x="210.5" y="0">k</tspan><tspan x="230.79" y="0">e</tspan><tspan class="cls-2" x="250.47" y="0">t</tspan><tspan class="cls-1" x="262.68" y="0">t</tspan></text>
+</svg>
