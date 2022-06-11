@@ -9,7 +9,8 @@ body {
 h1 {
   font-size: 2.75em;
   font-weight: 700;
-	font-family: Playfair Display:italic, serif;
+	font-family: Playfair Display, serif;
+	font-style: italic;
 }
 
 	.button.readmore {
