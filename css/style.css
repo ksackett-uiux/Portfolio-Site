@@ -21,9 +21,7 @@ h1 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-
 	}
-.button.readmore {border-radius: 8px:}
 
 	.button.readmore:hover {
 	  background-color: #823a24;
@@ -34,3 +32,5 @@ h1 {
     display: inline-block;
     font-size: 16px;
 	}
+
+.button1 {border-radius: 8px:}
