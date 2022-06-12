@@ -35,3 +35,23 @@ h1 {
     font-size: 16px;
 		border-radius: 8px;
 	}
+	.button.home {
+		background-color: #687259;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		border-radius: 8px;
+	}
+
+	.button.home:hover {
+		background-color: #627259 ;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		border-radius: 8px;
