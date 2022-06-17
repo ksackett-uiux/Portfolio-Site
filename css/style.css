@@ -323,4 +323,11 @@ Medium devices (641px and larger)
     .col-md-5 {
         width: 40%;
     }
+
+.about-img {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+
 }
