@@ -291,6 +291,10 @@ Medium devices (641px and larger)
         margin: 1em 0;
     }
 
+    .navtoggle.responsive li  {
+      display: block;
+    }
+    
     nav > ul > li {
         display: inline-block;
     }
