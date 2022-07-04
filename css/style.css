@@ -152,33 +152,17 @@ nav > ul > li > a:visited {
 }
 
 
-.navtoggle li:not(:last-child) {
-    display: none;
-    padding: 0 0 10px;
-}
-
-.navtoggle,
-.navtoggle.responsive {
-    background-color: #ba5334;
-    position: relative;
-}
-
 .navtoggle.responsive nav {
-    padding: 24px 0 0;
+  padding: 24px 0 0;
+}
+.navtoggle.responsive li  {
+  display: block;
+  padding: 10px 0;
+  border-top: 1px solid rgba(255,127,80,0.5);
 }
 
-.navtoggle li .icon {
-    position: absolute;
-    right: 0;
-    top: 2px;
-    font-size: 30px;
-    padding-right: 0.3em;
-}
-
-.navtoggle.responsive li {
-    display: block;
-    padding: 10px 0;
-    border-top: 1px solid #54e9d1;
+.navtoggle.responsive li:last-child  {
+  padding: 0 0 10px;
 }
 
 #hero {
