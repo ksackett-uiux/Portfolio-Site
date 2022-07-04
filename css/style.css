@@ -181,13 +181,6 @@ nav > ul > li > a:visited {
     border-top: 1px solid #54e9d1;
 }
 
-.logo,
-#menuIcon {
-  vertical-align: middle;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
 #hero {
     background-color: #f4ece2;
     color: #2e2e2e;
@@ -291,40 +284,16 @@ Medium devices (641px and larger)
         margin: 1em 0;
     }
 
-    .navtoggle,
-.navtoggle.responsive {
-  position: relative;
-}
-
-.navtoggle li .icon {
-  position: absolute;
-  right: 0;
-  top: 2px;
-  padding-right: 0;
-}
-
-/* this will override the previous code and show the complete menu */
-.navtoggle.responsive li {
-  display: block;
-  padding: 10px 0;
-  border-top: 1px solid rgba(255, 255, 255, 0.5);
-}
-
-.navtoggle.responsive nav {
-  padding: 24px 0 0;
-  
-    }
-
     nav > ul > li {
         display: inline-block;
     }
 
     .navtoggle li:not(:last-child) {
-        display: none;
+        display: inline-block;
     }
 
     .navtoggle li:last-child {
-        padding: 0 0 10px;
+        display: none;
     }
 
     .col-md-6 {
