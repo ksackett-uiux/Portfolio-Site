@@ -1,7 +1,7 @@
 function menuToggle() {
   // change the class of the menu so it shows menu links on onClick
 
-  var x = document.getElementById('myNavToggle');
+  var x = document.getElementById('myNavtoggle');
   if (x.className === 'navtoggle') // if the classn name of x is navtoggle, add responsive to the class name, else leave it alone
     x.className += ' responsive'; // this will show the menu
   else
